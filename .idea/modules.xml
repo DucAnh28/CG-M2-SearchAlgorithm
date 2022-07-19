@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT1-MaxString/BT1-MaxString.iml" filepath="$PROJECT_DIR$/BT1-MaxString/BT1-MaxString.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchAlgorithm.iml" filepath="$PROJECT_DIR$/SearchAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH1-BinarySearchWithoutRecursion/TH1-BinarySearchWithoutRecursion.iml" filepath="$PROJECT_DIR$/TH1-BinarySearchWithoutRecursion/TH1-BinarySearchWithoutRecursion.iml" />
     </modules>
   </component>
 </project>
